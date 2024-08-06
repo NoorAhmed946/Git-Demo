@@ -1,4 +1,5 @@
 # Git-Demo
 This is my first use of  github ..
 <br>
-My name is M. Noor Ahmed.
+My name is M. Noor Ahmed. I study CS.
+
